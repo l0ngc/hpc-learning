@@ -20,9 +20,7 @@
 
 由于HPC是个很大的话题，每一个子内容中都浩如星海，该库主要起一个引导作用。很多开发者维护着各个领域很nice的学习仓库，该部分学习仓库将放到🗂️中。
 
-我个人觉得太多大部头的书，只会让人劝退，因此书籍和课程尽量不超过三个。
-
-# C/C++
+## C/C++
 - 📚
   - C++ Primer
   - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
@@ -34,30 +32,49 @@
 - 🗂️
   - 
 
-# 计算机架构
-
-# 并行计算原理
+## 计算机架构
 - 📚
   - 
+
+- 🖥️
+  - 
+
+- 🗂️
+  - 
+## 并行计算原理
+- 📚
+  - 
+
 - 🖥️
   - [伯克利CS267：并行计算应用](https://sites.google.com/lbl.gov/cs267-spr2021)
   - [CMU 15-418/618:并行计算架构及编程](http://15418.courses.cs.cmu.edu/spring2016/home)
+
 - 🗂️
-
-
-# GPGPU
-- 📚
-  - [通用图形处理器架构](https://link.springer.com/book/10.1007/978-3-031-01759-9)
   - 
 
-# 深度学习系统
+
+## GPGPU
+- 📚
+  - [通用图形处理器架构](https://link.springer.com/book/10.1007/978-3-031-01759-9)
+
+- 🖥️
+  - 
+
+- 🗂️
+  - 
+
+## 深度学习系统
 - 📚
   - [机器学习系统：设计和实现](https://github.com/openmlsys/openmlsys-zh)
+
 - 🖥️
   - [CMU10-414/714:深度学习系统](https://dlsyscourse.org/lectures/)
 
-# 深度学习编译
+- 🗂️
+  - 
+## 深度学习编译
 - 📚 
+  - 
 
 - 🖥️ 
   - [陈天奇:MLC-机器学习编译](https://space.bilibili.com/1663273796/channel/collectiondetail?sid=499979)
@@ -65,5 +82,12 @@
 - 🗂️
   - [tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)
 
-# 量化开发
-TODO
+## 量化金融开发(Quant dev)
+- 📚 
+  - 
+
+- 🖥️
+  - 
+  
+- 🗂️
+  - 
