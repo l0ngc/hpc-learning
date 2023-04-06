@@ -92,14 +92,13 @@
 
 - 🗂️
 
-# 项目
-## 高性能计算库
+## 项目
 - 线性代数
   - [OpenBLAS](https://www.openblas.net/)
   - [Eigen Core](https://eigen.tuxfamily.org/index.php?title=Main_Page)
   - [CUTLASS3.0](https://github.com/NVIDIA/cutlass)
 
-- 深度学习
+- 深度学习框架
   - [TensorRT](https://github.com/NVIDIA/cutlass)
   - [tensorflow](https://github.com/tensorflow/tensorflow)
   - [PyTorch](https://github.com/pytorch/pytorch)
@@ -114,7 +113,7 @@
   - [TVM](https://github.com/apache/tvm)
 
   
-- 高性能算子
+- 高性能算子库
   - [OpenPPL](https://openppl.ai/home)
 
 - Python加速库
