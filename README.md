@@ -1,6 +1,8 @@
 # hpc-learning
 本库用来整理HPC领域学习的相关资料，由于个人能力有限，且HPC相关内容浩如烟海，欢迎多多提Issue并且一起维护。
 
+另外，推荐[CS自学指南](https://csdiy.wiki/)，这是一个北大老哥整理的很好的相关资源，我这里没有推荐到的，推荐去那边参考
+
 ## 内容包括
 - 基础课程
   - C/C++
@@ -50,6 +52,7 @@
 
 ## 并行计算原理
 - 📚
+  - High Performance Parallel Runtimes
 
 - 🖥️
   - [伯克利CS267：并行计算应用](https://sites.google.com/lbl.gov/cs267-spr2021)
@@ -65,6 +68,7 @@
 - 🖥️
 
 - 🗂️
+  - [如何开发机器学习系统：高性能GPU矩阵乘法](https://zhuanlan.zhihu.com/p/531498210)
 
 # 进阶方向
 ## 深度学习系统
