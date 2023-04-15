@@ -52,7 +52,7 @@
 
 ## 并行计算原理
 - 📚
-  - High Performance Parallel Runtimes
+  - [High Performance Parallel Runtimes](https://www.degruyter.com/document/doi/10.1515/9783110632729/html)
 
 - 🖥️
   - [伯克利CS267：并行计算应用](https://sites.google.com/lbl.gov/cs267-spr2021)
