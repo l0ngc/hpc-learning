@@ -32,13 +32,14 @@
 ## C/C++
 - 📚
   - C++ Primer
+  - [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?crid=2YG6ECDD8JW5M&keywords=effective+modern+c%2B%2B&qid=1555244788&s=books&sprefix=effective+modern+%2Cstripbooks-intl-ship%2C214&sr=1-1)
   - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
-
 - 🖥️
   - [南科大计算机系:快速学习C和C++](https://www.bilibili.com/video/BV1Vf4y1P7pq/)
   - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp/)
 
 - 🗂️
+  - [Hacking C++ 现代c++学习路线、Cheatsheet以及新feature](https://hackingcpp.com/index.html)
   - 
 
 ## 计算机架构
