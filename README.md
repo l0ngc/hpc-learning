@@ -40,7 +40,7 @@
 
 - 🗂️
   - [Hacking C++ 现代c++学习路线、Cheatsheet以及新feature](https://hackingcpp.com/index.html)
-  - 
+  - [Cpp官方参考指南](https://en.cppreference.com/w/)
 
 ## 计算机架构
 - 📚
